@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mdi/js": "^5.0.45",
+    "axios": "^0.19.2",
+    "pg": "^8.0.0",
+    "vue": "^2.6.11"
+  }
+}
